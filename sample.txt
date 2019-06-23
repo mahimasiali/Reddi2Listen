@@ -1,0 +1,468 @@
+body	title
+"What are your experiences? How was the team, location and tasks?"	Has anyone worked for Huawei as a Support Engineer?
+	"Sunrise from E7, day after rankings released. For people like me going into continuous, just remember that the sun rose on another day, and everything will be fine. ❤️"
+"HI, I'm going into AFM in the fall and I was wondering if I need binders, as in profs wants them for the first term and so on. I use my iPad for notes and I have a laptop."	AFM supplies
+"Hi guys,I'm a student from India looking to go to Waterloo .Can any of  you selelcted from India tell me your high school stats ,ec's etc.Also any advice while applying for admissions??Thank u."	Waterloo CS admission from an Indian perspective
+"I tried sleeping pills and everything. I can’t fall asleep until at least 4am :(
+
+Is it the planets or the iran war I’m not sure but make it stop pleaxe"	Haven’t been able to sleep for the past week
+What are the programming languages that are taught in computer engineering?	Programming Languages for CE?
+How is Kik like to work at? Given the stuff that's going on with SEC is it a good option for co-op next term?	Kik Coop 2019
+"Finding a place to rent is too hard. Everything close to campus is a scam, everything far is too far without a car. 
+
+That being said, how viable is living on campus? Showering in E7, keeping my shit inside a locker and washing my clothes by borrowing someones washing machine and/or commuting to a shitty room I rent in Kitchener to wash."	How viable is living on campus full-time
+"Hi everyone. I've been thinking of taking a term off recently (my first three terms haven't gone so smoothly) but wasn't sure if this would mess anything up. This spring I was supposed to be in a co-op term but I'm redoing a couple of courses. My next co-op is scheduled for winter of 2020. If I take fall off, can I still have co-op in Winter? I'm in sequence 3 of cs and not sure if this is possible. Thanks for the help!"	How to take a term off?
+"I go to Cambridge every week or 2 to visit gf and always took the 200 to ainslie cause she lives like a 1 min walk from it.  But now I gotta take Ion then transfer, is this slower, faster or the same now?"	Anyone commute to Cambridge with Ion yet?
+"International student who have applied for J1 twice. Does the second application process tend to take less time than the first one (ie US processes it faster since you are ""trusted"" or something of that sort). Or do you find it to be the same?"	J1 visa for the second time
+"Has anyone got into waterloo even though they didn't meet the conditions that were required?
+Was there like a probation or something of that sort pr completely lost the offer?"	Important
+"If I can show a doctor’s note, will the professor almost certainly defer my exam or shift the weight of the midterm to the final? 
+
+Furthermore, I would also like to know if anyone here have successfully deferred a midterm with a doctor’s note. 
+
+Thanks."	How hard is it to defer a midterm?
+"So this is my story on how I had a very long, long journey from freshman Waterloo to a full time job that i love.
+
+&#x200B;
+
+I really wanted to write this at one point on this reddit to share how I went from failure to success.
+
+&#x200B;
+
+I started Waterloo back in 2011 Fall for Life Science, first time out of parents grasp I got to taste freedom. That uncontrollable freedom lead to my botching my first semester here, probably all thanks to League of Legends. At that point i had a choice to restart next year or go into a ""success"" term taking lighter course load and going from that. I chose to go with the success term. But I didn't change, the path of destruction continued and I was kicked out permanently from my faculty and the school.
+
+&#x200B;
+
+From this I went into severe depression over the summer but somewhat got back on track and went to college in my hometown. College was smooth sailing, but i felt very unchallenged and unfulfilled, even if i was doing very well i was not happy. With a year of college like that i decided to pick my self up again, if college was easy for me, I believe that i was that a university level. The next year I studied my ass off with a goal in mind, it was to get back into University of Waterloo. I wanted to get back in graduate from the school that once kicked me out. So i studied hard the next year, got close with the professor and even got letters of recommendation form them. I re-applied to UW and petitioned my way back in. 
+
+&#x200B;
+
+In the Fall 2014 I was back where i started 3 years ago in 2011, i was given a probation semester with conditions to be met. And i met that probation by working my ass off for every single day and night and when i knew i made, it was pure joy. I knew i had it in me and i was able to do it. 
+
+&#x200B;
+
+Semesters passed to semester 2B where things started to get hard and and I saw my friends graduating and started to get a job. This is when my second downward spiral began. I felt extremely depressed and was unmotivated to do my studies. I failed the semester but was able to stay in because I petitioned my way in. 
+
+&#x200B;
+
+3A I was just trying to get by and was deciding on how I should move on with my academic life, I knew i wasn't getting in any higher education with my GPA, and the courses were only getting harder and harder. So i thought about it and decided to pursue a computer science minor because even with that, it is some certification that I can do something CS related. Everything was going well because I did like programming, but then I just could not pass the algebra course. University level math and I never saw eye to eye. But with taking basic sciences courses and CS courses I was able to make it through.
+
+&#x200B;
+
+After graduation, job hunting was not easy, my GPA was not there nor did i have any work experience in the field of CS. But i was determined to do this, because i knew if i couldn't succeed here, I will not be able to live my life the way i wanted. I self-studied more coding, and started creating portfolios and projects so that i can prove that i can code. With something to prove my resume has gotten more responsive and been getting calls to set up interview. If i did get the interview, I was able to make it the final round always. But it just ended there, after final round I would just get emails that they had decided to go with someone else. And I knew what the reason was, there was someone out there better than or someone that was similar to me but with work experiences. But I didnt give up, i tried and tried and kept trying for 8 months. 
+
+&#x200B;
+
+Until it finally happened, I got hired and I was at the happiest moment ever in my life. Because I went through a perilous road that I put myself in and I made it out. Right now, I work as a full time at a software company. It is a small role but hey this is my first job, i got to start somewhere.
+
+&#x200B;
+
+I just want to tell the students of UW this. Life gets hard, life will bring you down, and sometimes you would want to end it. But don't do it, because you really do ruin the chance of getting it better and finding the happiness at the end. If something stands in your way, beat it down, if you can't just get a bigger stick and beat it down. You are never alone out there, people have gone through the same stuff you are going through right now and some people went through worse. Find the right people that will support you, and try to outgoing at the same time because I can tell you this right now, no matter how strong you think you are, having someone there will always make it better.   
+
+
+Be strong warriors and fight for the life that you want."	"From getting kicked out, getting back in, almost failing again, graduating, and now a full time job. Trust me if i can do it, so can you."
+"I received an offer from one of the top company in the industry, but based on the job description I’m worried that if I take the offer I won’t be doing any actual kind of work I want to do (plus I’ll probably be their only coop student). I also got an offer from a large company not directly related to my field of study, but the job itself seems really interesting and more meaningful than the previous one.
+This is my first co-op term. Should I take the first offer just for the name of the company? Since it might help me get a second co-op in my field? Or should I take the second offer, at the risk of not being able to easily get a job in my field of study next co-op term? Any advice is appreciated!"	Choosing between 2 offers: good position at not-so-good company VS. not-so-good position at good company?
+	Do profs care if you vape during an online exam?
+"Scenario: you have been ranked 2nd for two jobs and even though you want one job a lot more than the other, you rank both of them 1 to maximize your chance of getting a job.  Both people who received an offer (ranked 1), decline the job. You are now next in line for both jobs, but you have ranked them both #1. 
+
+&#x200B;
+
+Question: What happens? Does CECA randomly select which of the two jobs you are given? Or do they give you a choice at this point?"	Ranking Scenario Question
+Whatta fail. It sux. Vvvvv boring. Will not recommend.	EngHacks 2019
+Does the Math faculty kick you out of co-op if you don't have enough work terms left to fulfill PD/WTR requirements? I have 0 brain power left for PD after work D':	Has anyone gotten kicked out of co-op for not doing PD/WTRs?
+"This university is actually awesome. The study places are well lit and amazing, and people seem pretty happy contrary to the view I always got from the outside even though I go to the high school down the street so it's not too far away. Also, maybe I have low standards because my unprofessional university has closed the food court altogether for the entire summer as well as shitty hours for the international news but I am baffled that the international news is 24 hours...and like yall carrying fukn halal chicken and rice that tastes like homemade food, sushi, tf brah. Definitely destroys whatever crap we have going down at the international news (which is rarely open these days) down the street. 
+
+&#x200B;
+
+Some people seem a bit more anti-social. At Laurier I definitely feel more at ease just talking to random people; people here are just as chill to talk to but almost seem shocked that a stranger would have a conversation. People here also seem to not have alpha male complex that some people seem to have at Laurier which is nice. Everyone is chill af. I do get some stares when people see my laurier course packages or my keychain. Overheard a few Asian chicks all like ""omg he goes to laurier 😅 😮 😮"" .. yea? cause my uni is dead in the summer lol
+
+&#x200B;
+
+I don't get why some people feel down about this place. Today I was taking a study break to take a gander around the university and got lost (tfw low iq confirmed) so asked some chick for directions and she just walked me there which was pretty nice. She asked me if I'm new and so I told here I don't go here and she replied with ""yea you don't look like you go here"" with a smile....wtf does that even mean? There's tons of beautiful people everywhere here contrary to popular opinion. Seems like a great place, not sucking up."	"As someone who doesn't go here but studies here, got told today ""yea you don't look like you go here"""
+"The upcoming term will be my third coop. There's one company I like, but if I accept the offer, then both of my co-ops will have been in a very specific area of software (blockchain). Now I definitely don't want to do blockchain for the rest of my career, so I'm scared this will tie me down to it. I do want to work there though.
+
+I should mention that my first coop was mostly blockchain in name only, I was very much doing standard backend work."	Risk of pigeonholing myself?
+"I personally eat out a lot, and it's not the best financial decision.
+
+&#x200B;
+
+I am wondering if a lot of students cook at your residences, if so why? How often do you eat out?"	Do a lot of students cook their own meals?
+For too long have the students had to suffer by the hand of the corrupt construction.	We need SLC
+How was the culture and how much did they pay?	Anybody worked at Intelex or Clearbanc for software?
+I want in-n-out but I don't wanna grind leetcode	We need Cali in the SLC
+this is a shitpost pls stop messaging me thanks	Watching a movie with the boyfriend tonight. Can anyone recommend a good boyfriend?
+"So I know the position title that shows up on your application package's work history is the title that was on the waterlooworks posting. Though, the work I did at my last coop was pretty unrelated to that title, so I put a different one on my resume. I would even say that I wouldn't want the official title on my resume.
+
+ My question is: do employers care more about the title on your resume or your work history?"	Official co-op title vs one on resume
+Is it something trendy or exciting to do??	Why do many people cheat on each other?
+"I'm really not sure what to rank each of the jobs I interviewed for. The job I wanted the most I only got ranked for, two jobs that I'm not very certain about I got ranked for one and offer for the other, and then the job that I really don't want I got ranked for. The two jobs I'm not sure about are just due to having to move far or it not being that relevant of a job for my program and the job I really don't want is that after the interview I've changed my mind. I'm fine going into continuous if I have to. I also have a way to set up a job outside of WaterlooWorks if it really came down to it also.
+
+So right now my rankings are:
+
+- Job I really want - Employer Rank: ranked, My Ranking: 1, has 2* openings and interviewed 10 people.
+
+- Job I'm not sure about - Employer Rank: 1, My Ranking: 10, has 3 openings and interviewed 10 people.
+
+- Other job I'm not sure about - Employer Rank: ranked, My Ranking: 10, has about 20 openings and interviewed about 40 people.
+
+- Job I really don't want - ranked: Not Interested, has 1 opening and interviewed 6 people.
+
+I just feel like I'm making a mistake and going to end up somewhere that I'll be disappointed with for four months no matter what I do for rankings. Any advice would be greatly appreciated!
+
+*I know for a fact that someone who got an offer for this job is going to take it so really only 1 opening at most."	Need Ranking Advice
+	Does continuous round have the same level companies as main round has?
+"Has anyone worked there/know anyone who's worked there on coop? I just have a few questions, thanks!"	Has anyone worked at Sick Kids - Developer Trainee in Computational Medicine?
+Upvote if you reaching	Kegger house party tonight. HMU for details
+"I'm going to be entering my first year in CS at UofT this upcoming fall, but after a substantial amount of time of self-reflecting, I found myself to be more interested in Architectural Engineering at Waterloo. I actually hate myself for not putting enough thought into this subject months beforehand, and now I highly regret it. I like math, but I've also loved art for all my life, and yet I was so blinded by the prestige that it blinded me from my genuine passion.
+
+I'm wondering about my chances of transferring to Architectural Engineering in First Year CS. How competitive will it be? What will my mark need to be like?
+
+I'm also thinking of taking a GAP year or just 12B in order to reapply, but I'm afraid it might hurt my chances of acceptance, and I will be even more screwed if I get rejected. I was also hesitant to choose this path due to the gloomy stigma that surrounds it(especially with Asian parents), but if it's the best course of action to take, then I will. I'll rather spend my life pursuing something I love rather than in desolation.
+
+I would be grateful to hear your guys advice, I'm just really lost as of right now."	"I want to do Architectural Engineering at UW. Should I transfer from UofT CS, take a GAP year, or take 12B?"
+"For actuarial students who have worked at Intact, Manulife, Sun Life, Aviva, Munich Re, etc., how was your experience there and your thoughts on the company? Just trying to gather some opinions right now. Thanks in advance."	Actuarial Co-op Companies
+"Is it possible to recover it by calling the waste management?
+How much will a new key cost approximately?"	Accidentally threw away an important locker key which is very small in size while tossing garbage in the dumpster.
+"I am starting stream 4 mechatronics in the fall and am staying in residence with a meal plan. I go out a lot with friends and spend money on snacks, restaurants and hobbies. I don't know if I need a full time summer job or not, I have one lined up with a kids robotics camp but it is with younger kids and I really don't want to spend my whole summer doing that. How much per week do you think I will spend and how much should I save for random expenses I may have?"	How much spending money should first year students take?
+	/r/uwaterloo meetup on ion train
+	Unpopular Opinion: We need SLCs in the TnTs
+What would my marks have to look like by the end of first year ?Do you get co op as long as u maintain ur average?	What’s the average you need to get into co op second year?
+"Has anyone had this co-op position at the Ontario Ministry and how was it?
+
+I got an offer but I'm not sure I want to spend 2 co-op terms there (as is required).
+
+My other options are teaching related which doesn't really help me much either (I'm in Stats and Act-sci) but at least those are only 1 term commitments. I realize my first co-op is unlikely to be industry related.
+
+I'd really rather not go into continuous..."	IT Quality Assurance Assistant
+"i’ve had two roommates so far that literally WREAK of putrid smell, like they leave a TRAIL wherever they pass, and if you pass their room it fucking smells.
+
+how do you even live with yourself? holy shit it’s disgusting and makes me gag
+
+luckily I’m not in eng or cs so i’ve never experienced this during class, but how can you be so vile? pretty sure my current roommate hasn’t showered in at least a week"	how do you NOT shower??
+	We need Lazeez in SLC
+	Welp our campus has been taken over by the Outsiders
+	Twilight Never Forget
+	Day 170: The Ion Light Rail launched on ranking day so that the students could board a literal continuous train
+"&#x200B;
+
+Hey everyone, one of the main issues that gets mentioned a lot are the lack of opportunities or difficulties to find recreational events/activities to meet new people. So a bunch of us are working on an Android App limited to Waterloo students (for now) that lets people create their own events such as Pickup ball/soccer games, Board Games, Anime Run around Ring Rd. These events would then appear on the feed of the main app and users could filter these events by what they are interested in and then choose to attend these events. It's basically just a way for people to find events they are interested in easier. Any advice would be appreciated & there are a few questions in the google doc form that would help us a lot.
+
+[https://docs.google.com/forms/d/1estGdtLn\_mNxnvBVKc1DD8XvP7Hfw5rfqXjfwZkNVe0/edit](https://docs.google.com/forms/d/1estGdtLn_mNxnvBVKc1DD8XvP7Hfw5rfqXjfwZkNVe0/edit)
+
+&#x200B;
+
+Would anyone be interested in using it when it is complete?
+
+&#x200B;
+
+Thanks!"	"How can we improve our platform that shows nearby recreational events/activities on campus for students to join (ex. Pickup Ball, Board Games, Anime Run around Ring Rd., Bubble Tea 50% off deals)"
+Does anyone know what sites or groups to look for housing in the bay area?	Bay Area Housing
+"Did the prof mention the dates of the quiz's? I wasn't able to make it to class on Monday or Friday and there is no announcement on Learn.
+
+Thank You 🙏"	PMATH 321: Quiz?
+Is Manulife a good place to work as a SWE co-op? Its my first co-op and I am trying to decide between Manulife and SW dev at a few other small no-name tech companies.	Manulife Software Engineer Co-op
+"I got an offer from them for UX Designer but I couldn't find any info on what its like to work there. Has anybody worked there or heard anything?
+
+Thanks!"	Anybody know Descartes system group?
+"I received certain forms to fill, and rez took a key deposit and still are asking me to fill out credit card information along with the cvv number for (future damages) and a direct deposit form etc. 
+
+is this normal ?"	Why is rez-one asking for so much personal information ?
+"I had a really solid interview for EA a few weeks ago, nut when rankings came out they didn't appear on the list. Are they just slow at submitting??"	Job not showing up on rankings
+"Same old question, if i get a rank of 1, it means offer right? and also could I just rank my offer 1 and rank other ones anything besides 1 and I'm guaranteed a job? 
+
+Also, getting paranoid here, I have seen some reddit posts about employer cancelling a job right before work term starts... that would be very rare i assume? just scared if that's gonna happen to me. I mean if the company is a big one they wouldn't necessarily cancel the jobs after giving out offers right?"	Ranking Question
+	Waked up at 4am by assholes downstairs
+"I'll start:
+
+&#x200B;
+
+I turned down a Slack internship offer which doesn't sound like a big deal but it was super early stage back then. A few months ago I was listening to a Chamath Palihapitiya interview and he said that a super early stage Slack intern (same year I got an offer) got equity in Slack while he was working there.
+
+&#x200B;
+
+I mean for fucks sakes, if I even got 0.001% I would've had like 200 grand. Market cap is almost $20 billion.
+
+&#x200B;
+
+Okay your turn"	What's the best opportunity you ever missed out on?
+	This sub in one picture
+"1. ACTSC371 
+2. STAT330
+3. STAT331
+4. ACTSC232
+5. HRM200 
+
+wondering how doable this is while searching for a co-op position"	Suggestions for 3A Workload
+	I need someone to vent to.
+"My sister says the guy who works at campus puzza at night is hot 
+upvote if you agree lol"	campus pizza
+"Everyone knew each other and had their cliques and it felt more like a community. And you’d have actual crushes.
+
+Now it’s so impersonal, there’s way too many options and no one even knows you or gives a damn about you , at least that’s what it feels like for me 
+
+Maybe it’s different for engineering and stuff"	It was so much easier to meet people in high school
+"What's the percentage of people who went to Cali in upper years?
+
+Currently 3rd year ECE, already busted for Cali. Was wondering this question as some of my peers got busted, but others got cali jobs.
+
+I know it's bit different for ECE, CS and SE, which I assume for SE it would be a bit higher."	What's the percentage of people who went to Cali in upper years?
+"http://i.imgur.com/s95LOVZ.jpg
+
+Also I passed the ECE 106 midterm, yay!"	Cali or bust!
+"Hi,
+
+&#x200B;
+
+I'm a CS student, and last term I failed one of my CS classes (got a 46). I'm not a great student by any stretch of the imagination, but this was still my lowest mark by a landslide. I made a silly mistake skipping a bunch of assignments, lectures, clicker marks, and ended up getting an incredibly low mark on my final.
+
+  
+
+I already asked the prof to double check my final to make sure it wasn't a mistake (as I did alright on the midterm and the assignments that I did do) but was told it was marked correctly. 
+
+So this class is a prerequisite for CS350, which I know is essential to take in 3A, so I'd really like to take it then and in my current situation I can't.
+
+I have two choices here:
+
+&#x200B;
+
+1) Talk with prof of failed course to see if I can bump my mark up to a 50
+
+&#x200B;
+
+Pros: Don't have a failed mark on my transcript, don't have to worry about taking an extra course to graduate on time, can take CS350 no problem. I've also looked over my midterm, and noticed a couple questions were definitely marked incorrectly, so I'd maybe be able to bump up my final mark a couple percent and have a better case when talking with prof.
+
+Cons: Probably unlikely to happen, I end up with a pretty shitty understanding of the failed course
+
+&#x200B;
+
+2) Talk with CS advisor to get an override so I can take failed course and 350 and the same time
+
+&#x200B;
+
+Pros: I can learn the SHIT out of the course and KILL it and end up with a great mark and solid understanding of it, I learn a good lesson on failure and how to overcome it without trying to force a barely passing grade, somewhat (maybe? not sure if allowing taking a course's prereq (if you failed it and are retaking it) at the same time is something an advisor would consider) likely to happen
+
+Cons: I'll have a failed course on transcript, I'll have to take an extra course to graduate on time
+
+&#x200B;
+
+Would really appreciate help here. I'm leaning towards option 2, but this leads to a couple additional questions:
+
+&#x200B;
+
+Will my chances of getting a good Cali jobs go down a lot? I think I'm a decent programmer, I'm a pretty good interviewee, I'm on my second coop right now as a software developer at a pretty good Toronto company, and will almost certainly have my second Outstanding by the end of the term. But I fear that a failed mark will be a big red flag and will get my resume filtered/thrown out immediately by some companies and I'll be missing out on some great opportunities. 
+
+ 
+
+And I know that to take a 6th course you have to have a CAV of >80. Mine is closer to a 70. Are there any exceptions made? If I get my shit together (and I know I can) and get a term average of 80 or 85+ in 3A would they let me do that in the following term? Or will I have to take an online course during coop? And if so, can I take any online course (especially one without a final exam) available that term?
+
+  
+
+Sorry for the long blogpost, I'm just really anxious about what I should do and have been worrying about this since marks came out a couple months ago. Would REALLY appreciate some insight or help, and thank you in advance for it :)"	Failed CS Course
+"I'm on co-op this Fall 2019, so when should I apply for co-op for winter 2020 when i'm in school again? Do I have to fill out an extension form or something or do I apply for only the winter term directly through the osap website?"	OSAP for Winter 2020
+It's a slightly modified from previous midterm (W17 that is flying around). Should've brought the printed version of it.	oh CS480
+"Asian food and relatively cheap (okay, not as cheap as costco, but still beats SLC)"	Popular opinion: we need TNT food in SLC
+Lol.	Cs 480 post midterm thread
+Thoughts on his EP?	any other lil nas x fans out there? 👀
+"I got 2 offers. One is from a company in Ottawa that looks fantastic - exactly what I'm looking for in terms of culture and work. The problem is, I've never lived so far from home before and I'm pretty nervous about it. I usually go home every weekend, which unfortunately I can't do if I live in Ottawa. I'd also have to deal with finding housing there.
+
+The other job is decent. Not as cool as the Ottawa one, but I still think it would be a good experience. Being in Waterloo is a serious advantage since my friends are here and it's close to home. But I don't want to give up the cool job either :(
+
+Any thoughts on what I should do?"	Cool job in Ottawa or okay job in Waterloo?
+	How bad is continuous for cali?
+"It's a weird question, but everyone I meet from that city is rich, even the people that say they're poor lol. By poor, they mean that their parents can't buy them a full-out mansion, ""just"" a condo. Haven't met anyone from there that's legitimately poor."	Anyone here from Vancouver or know someone from there that's poor?
+"Can’t afford expensive food on campus, need their $1.50 hot dog + drink"	Popular opinion: we need Costco food court in SLC
+	What are you all doing on this wonderful Friday evening?
+	If you found a watcard on floor of ion today past 7pm today DM me thanks
+Gotta play the ranking game rn..	Anyone get liffion but not going to take it?
+	bUt muH Co-op!
+"I know this is probably a stupid question and they probably do, but one of my friends said they didn't and just want to make sure he is wrong. 
+
+&#x200B;
+
+So let's say that you are applying to med school, would the med school take into account your courses taken during co-op semesters (not including PD) into account for your overall average?"	Do courses taken on co-op semesters count towards your overall average?
+"Any thoughts?
+
+I felt like I studied / focused on the wrong material, but it was definitely fair.  
+Also, wtf was that last question with primitives?  
+The guys to my left and right both left exactly after an hour, so I am guessing they either nailed or bombed it lol."	CS 456 Post Midterm
+"Im currently looking for my final coop, didn't get any offers and one ranking by myself and one ranking because of connections. And I know i shouldnt compare myself, everyone seems much more well off while looking for their last coop..
+
+I'm currently not doing too great in school either and just feel like even though i put so much effort in, it always just results in at most average or below average and it doesn't help that I put in alot of effort for interviews and still result in just one ranking at most.."	Feeling like a failure
+	Post STAT371 Midterm Thoughts?
+how tiny is ur dick man honestly	To the guy who literally just drives up and down Lester all day revving his engine
+"&#x200B;
+
+https://i.redd.it/txcztjvjyr531.png"	"If all our 40045 subscribers each donated $11.88, we would have the funds needed to surpass Feridun Hamdullahpur's $475,631 last year."
+Can you pm so so I can ask you a very important question for me thx	Any upper year Laurier based DD students?
+"Can’t afford expensive food on campus, need their $5 junior chicken burgers deal"	Unpopular opinion: we need Mcd’s in SLC
+	unpopular opinion: fb is 'quite ethical'
+"So apparently I plagiarized on an assignment worth 2%.... never been in this situation before and I have a meeting with the dean. 
+
+Any advice? (No, I did not intentionally plagiarize)"	Policy 71
+"Would anyone want to look for housing together?  
+I'm trying to find something right in downtown, facebook groups don't have too many options so I was thinking of getting a short term lease through a company but they require people to come together."	People working in Toronto in fall
+	Gas sux
+"I know the question sounds a bit silly but bear with me. I got an internship for a position I'm not too psyched about but I'm not sure if I should take it just for the added experience so future job searches would go better?
+
+
+For context I'm currently an upper year CS student w 3 software internship experiences at small companies. The new company is also very small, the culture is more strict/not as enjoyable for me, and the position is front end which I'm not a big fan of. 
+
+
+However the pay is about a 50% raise compared to what I've gotten in the past and I'm not too sure if future employers would look fondly on the added software developing experience. Would it be in my best interest to just take it? I'm not particularly looking for an internship next term so it wouldn't be the biggest deal if I can't find another."	Is it worth it to take an internship that I don't particularly want just for the experience as an upper year?
+	7 hours after ION opened and even the driver is confused what's happening
+	"MATH138 - Geese Studies ""As time increases, we will have infinite geese, so we have a problem"""
+	This determines your fate
+	OSAP: Endgame
+"exams in less than an hour and if i don’t calm down all my hours of studying are gonna be useless
+
+Edit: exam went better than expected :)) thank you guys for the advice uwu"	how tf do i calm down
+	Reminder: Use UWRanks for more organized information on WW Rank info
+"As a background, I've wasted so many years of my life due to lack of motivation, isolation, depression, you name it. As a result, I've been languishing behind most of my peers in Math and Engineering. Fast forward to recent, I just completely ruined my GPA due to depression, and landed a job that's very underwhelming (even though I do strong believe I deserved better). 
+
+&#x200B;
+
+I thought my life was over. I was living alone, completely isolated, crying everyday in the public park. But contrary to what I or most of you might think would happen, I turned things around (at least for now). Not only did I manage to stop all the negativity, but I've also started to meditate, exercise, learning programming before and after work for over a month.
+
+&#x200B;
+
+I have never felt so liberated, independent, and consistent in life. For my whole life, I've been too reliant on my parents as an only child and gave up everything I tried. But the only problem is, I absolutely dread going to work because I have close to nothing to do and even the little things I get assigned are trivial and purposeless. Furthermore, for no apparent reason at all, the HR and CEO don't seem to like me and give me attitude for absolutely no reason. For example, the CEO would ignore me or just reprimand me when I offered help. So far, I have been trying to just watch tutorials to boost my skills, but it feels horrible and distracting because people are constantly chit-chatting.
+
+&#x200B;
+
+I am seriously considering quitting this job (meaning I lose my co-op), so I can continue my good streak and spend more time working on things that I care about. 
+
+&#x200B;
+
+Please give me your opinion, as I have few friends to ask for advice and don't want to agitate my parents. I truly want to live my life to the fullest potential and build meaningful relationships. I can no longer make foolish mistakes that I've made my whole life. 
+
+&#x200B;
+
+Your input will be much appreciated."	"Seriously considering quitting co-op job and co-op altogether, your input will be appreciated"
+Did anyone ride	So how was ion rail?
+"Whoever got the offer/ranked for Product manager position at Oracle, can you please pm?? Thanks"	Oracle - Product Manager: Content creation
+	Choo Choo Muthafuckas!
+Anyone want to find a place together??	Roommates/Housing in Boston
+"More specifically, I'm looking for a course-based program (ideally a masters because those letters matter in my field)  that caters to people who want the data scientist skillset, but don't have a formal background in computer science. 
+
+I'm interested in things like SQL, python, big data, automation, etc.
+
+If you know of any programs that fit that bill, I'd love to hear about them, plus any reviews you might have heard."	Anyone aware of Canadian professional programs out there that can take you from 'good at Excel' to data scientist/analyst?
+"Throwaway for obvious reasons... I'm wondering if anyone on here has experience with the bdsm community and how to get started in it?
+
+I'm a female sub and I've always been into dom/sub stuff but I've never really had a chance to try it besides a bit of spanking/hands tied/blindfolds with my ex which was more just like rough sex. I'm only interested in it during sex though and not as a 24/7 lifestyle or a long term commitment... Into stuff like handcuffs/ropes/ties and paddles/floggers but nothing tooo crazy
+
+How would I go about finding someone to try this with? I tried going on fetlife but there were too many people from other places and much older people. Also is it possible to stay anonymous the whole time? My close friends (4-5 of them) know I like this stuff but I don't want other people in my life knowing. I'm on co-op in the GTA right now so I'd be looking for someone there to meet up with
+
+Any advice is appreciated! :)"	[NSFW] BDSM advice?
+"I got an offer for coop in SF, but as a girl I am worry about living in the city. The office is right in downtown, which I heard is the most unsafe part of the city, and the public transit is also very sketchy. What would be the safe ways to get to work? I saw some posts here saying SF is pretty safe, but I assume most of the posters are guys. Is there any insights on how girls feel about the city?"	Is SF safe for girl?
+"Get out there and skate! I'll be hanging around E7 in the back around 5-6pm. If you ever wanted to try it out, now's your chance. (I'm still new to this so don't expect anything fancy from me)"	Happy Skateboarding Day!!
+"Does anyone know that if some companies want to hire 12 people, but only interview 8 people, and when the ranking result came out, it is not offer, but ranked,
+Could it be guaranteed that you would be matched or may depend on the situation if the company changed the availability or did not show the correct information previously( as job posting title shows spring)
+ Hope anyone could help to figure it out."	Ranking confusion
+Did anyone work for 8 month coop at cgi group before? How was it? What was the salary? Did you like working there?	Devops engineering coop advice
+"3 interviews, 3 not ranked
+
+sucks to suck i guess. at least u chads wont be in continuous with me"	rankings crying thread
+I'm inside the library and it sounds like loud drums and someone chanting/yelling. What's going on?	What's happening outside of Dana Porter?
+	Saucey sexist drama on UW rideshare group
+"I’m a fourth year science student and have been thinking about attending engineering grad school (groundwater related) in next year. I think having some survey skills and other eng concepts might be very handy when it comes to construction sites. 
+So Enve 100 or CIVE 100 could be the option for me as an elective. Just wondering if there’s any non-eng person has taken it before. Any advice? Or they are only opened to eng students?"	Non-eng student taking ENVE 100/CIVE 100
+"Hello my dudes. I hope rankings treat you well. I was wondering if anyone here has worked for the Manulife office at 200 Bloor St E, Toronto. I got an offer for a new department there but was just curious about what the general vibe is working there, or at any other Manulife offices. Any insight would be appreciated. Thanks"	Working at Manulife (200 Bloor St E)
+"Just to clarify, this doesn't mean ""Not ranked"". The entire job posting itself is missing from rankings, like the employer hasn't put in the rankings yet."	Ranking missing for WWorks?
+Does anyone wanna look for housing in Kanata together? Or does anyone have any recommendations?	Housing in Kanata Ottawa
+Are all rankings supposed to be out now or it varies for different companies?	Ranking
+FeelsGoodMan	Ranking Smiling Thread
+	When you get no rankings
+	This is important plz watch
+Should I buy a patagonia half zip or a patagonia vest to fit in with the Bezos? Thanks in advance	Got a coop in NYC
+	"[Today's the day] Happy Rankings Day, Happy Ion Launch Day, who knows? Maybe the train will bring you good ranks!"
+thank mr goose	Thank Mr Goose for Rankings Thread
+clap your hands 👏 👏	If you need a curve for CS480 and you know it
+thank mr goose	Pray for Rankings
+One of the companies I interviewed for contacted me yesterday saying 'do you have any questions' so what should I ask?	Employer contacting through email
+"Welcome to Free Talk Friday, where you are able to talk about whatever you want.
+
+Please keep it respectful and remember that subreddit rules still apply.
+
+Looking for more Free Talk Friday action? Check our Discord server here: https://discord.gg/fa7AvAr"	Free Talk Friday
+	Day 169: Oh god oh fuck rankings come out today
+	40K SUBS!!!
+"about me:
+
+im from uoft btw no hate plz
+
+will admit i am uw cs reject
+
+but im doing coop. im cool too
+
+ask me anything"	"I'm the 40,000th member of /r/uwaterloo, AMA"
+	help im still awake
+"I need help to choose whic toilet paper to buy. Do you have any advice?? It seems like one of them says 8x24 two ply rolls, but the other one says 24x8 two ply roles. I’m really confuse and I don’t know what to do. I’m also getting rly worryed because the curries I ate yesterday dripping down my ass. Thx."	Can somebody PLEAXE help me??
+"I'm really not sure which one to buy, there's too many choices"	Can someone tell me what the best pencil is for mechanical engineering (stream 4)?
+"Stupid email below:
+
+Hello!  I have very bad news for you.
+
+17/03/2019 - on this day I hacked your OS and got full access to your account \_\_\_\_@edu.uwaterloo.ca. So, you can change the password, yes... But my malware intercepts it every time.
+
+How I made it: In the software of the router, through which you went online, was a vulnerability. I just hacked this router and placed my malicious code on it. When you went online, my trojan was installed on the OS of your device.  After that, I made a full dump of your disk (I have all your address book, history of viewing sites, all files, phone numbers and addresses of all your contacts).
+
+A month ago, I wanted to lock your device and ask for a not big amount of btc to unlock. But I looked at the sites that you regularly visit, and I was shocked by what I saw!!! I'm talk you about sites for adults.
+
+I want to say - you are a BIG pervert. Your fantasy is shifted far away from the normal course!  And I got an idea.... I made a screenshot of the adult sites where you have fun (do you understand what it is about, huh?).
+
+After that, I made a screenshot of your joys (using the camera of your device) and glued them together. Turned out amazing!
+
+You are so spectacular!  I'm know that you would not like to show these screenshots to your friends, relatives or colleagues. I think $715 is a very, very small amount for my silence. Besides, I have been spying on you for so long, having spent a lot of time!  Pay ONLY in Bitcoins! My BTC wallet: 14qdpR8q1hkrm1rEmJYS6hcC4RyotdwGV5  You do not know how to use bitcoins? Enter a query in any search engine: ""how to replenish btc wallet"". It's extremely easy  For this payment I give you two days (48 hours). As soon as this letter is opened, the timer will work.
+
+After payment, my virus and dirty screenshots with your enjoys will be self-destruct automatically. If I do not receive from you the specified amount, then your device will be locked, and all your contacts will receive a screenshots with your ""enjoys"".
+
+I hope you understand your situation.
+
+\- Do not try to find and destroy my virus! (All your data, files and screenshots is already uploaded to a remote server)
+
+\- Do not try to contact me (this is impossible, sender's address was randomly generated)
+
+\- Various security services will not help you; formatting a disk or destroying a device will not help, since your data is already on a remote server.
+
+P.S. You are not my single victim. so, I guarantee you that I will not disturb you again after payment!  This is the word of honor hacker  I also ask you to regularly update your antiviruses in the future. This way you will no longer fall into a similar situation.  Do not hold evil! I just do my job. Have a nice day!"	Which one of you cringey mans did this?
+"\- Paid for May rent via 3rd party online app
+
+\- Management changed in May, forced everyone to switch to auto withdraw
+
+\- Management said that it was ok that I paid for May's rent through the app
+
+\- June comes around
+
+\- They auto widthdraw double rent because I ""didn't pay May's rent""
+
+\- I've been emailing them for 2 weeks and the conversation is going nowhere. They still haven't confirmed that they won't charge me again in July.
+
+Anyone else dealing with this?"	181 Lester Double Rent WTF
+should i be concerned? it was just once and it was pretty lit tbh. thought the girl was talking to me and she straight up though i was whack lmao	i heard voices today
+When someone talks to me and they have an accent and i can tell english isn’t their first language i try to enunciate more and talk a bit more slowly... is that bad?	Should i stop doing this 😬
+cho	cho
+	Day before rankings PSA
+	Uhhh What Laptop do I get? My Brain is Tiny Uhhhh
+"Can anyone provide me with the address? I have to start planning my move-in tomorrow and it would be really helpful. I'm moving into V1 how close is it to campus? and does it have washrooms? What are your opinions on the campus? Please explain why or why you don't like the campus in a 2 page essay (single spaced, APA format). 
+
+Thanks a bunch!"	"Hi guys and gals, I got accepted into UW and I was just wondering where is it located?"
+Hi so I had selected some courses for Fall 2019 and I was wondering whether CLAS 100 would be an easy 90 like CLAS 104 and CLAS 201???? HELP A STEM STUDENT OUT THANKS	IS CLAS 100 EASIER THAN CLAS 104 OR CLAS 201?
+	deMOnIc GeESe VErbaLLY AttaCK DaDDY DeMuro
+"WATER WATER WATER
+
+LOO LOO LOO"	Congrats to /r/uwaterloo on 40k subscribers!
+"What is the expected frequency?
+
+Really banking on this for fall term"	LRT BEGINS SERVICE TOMORROW
+There is this scary looking deadline on the important dates calendar coming up in two weeks but I can't get a promissory note for fall 2019 yet. I'm assuming this deadline is not for fall 2019?	When is the deadline to become fees arranged for Fall 2019
+	"[1 more day!] The countdown is on to the second most exciting thing of 2019! (Sorry Ion, double snow day took #1)"
+	Waiting ranking like
+What is the difference between the average and hearty meal plans?	Meal plan
+Wonder if anyone has had experience with this (i.e. getting rank results later in the day tomorrow)	"If an employer still hasn’t submitted rankings yet, can they do so after the deadline?"
+"Did anyone work on campus (or off campus)  in their first year in like a coffee shop or whereever just to make some extra money?
+How was it, was it manageable?
+Was it is easy to find work in the first place?"	First year side work
+"F  exception ""F exception F"" exception, F. Exception F exception F exception; F exception, F, exception F exception. F exception F!!"	CS 350 F exception Thread
+I just need to know how capable of a computer I need for my program	What laptop is needed for a civil eng student
